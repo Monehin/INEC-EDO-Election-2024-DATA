@@ -9,18 +9,13 @@ I was able to retrieve this data by discovering an unsecured endpoint in INEC’
 This repository aims to provide transparency that INEC has failed to deliver, making this election data available for research, analysis, and public scrutiny.
 
 
-This data represents **92% of the total election results** uploaded to INEC’s servers at the time of the query.
-
-### The Importance of Releasing this Data
-
-INEC has not been transparent or proactive in releasing election data for public scrutiny, raising concerns about their integrity and commitment to free and fair elections. 
-
 
 ## Important Considerations
 
 - **Incomplete Data**: This dataset represents 92% of the election results. The remaining 8% of results were not uploaded at the time of the query. Please take this into consideration when analyzing the data.
 - **Date of Query**: September 21, 2024
 - **Time of Query**: 19:26:55 GMT
+
 
 
 ## Suggested Use Cases
