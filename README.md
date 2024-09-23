@@ -4,17 +4,10 @@
 
 This repository contains **raw election data** from the **Edo State Elections** that took place on the 9th of September 2024. The data was accessed from the backend API of Nigeria's Independent National Electoral Commission IREV, which is responsible for overseeing the electoral process in Nigeria. 
 
-I was able to retrieve this data by discovering an unsecured endpoint in INEC’ IREV backend. At the time of retrieval, **92% of the election results** had been uploaded to their servers.
+I was able to retrieve this data by discovering an unsecured endpoint in INEC’ IREV backend.
 
 This repository aims to provide transparency that INEC has failed to deliver, making this election data available for research, analysis, and public scrutiny.
 
-
-
-## Important Considerations
-
-- **Incomplete Data**: This dataset represents 92% of the election results. The remaining 8% of results were not uploaded at the time of the query. Please take this into consideration when analyzing the data.
-- **Date of Query**: September 21, 2024
-- **Time of Query**: 19:26:55 GMT
 
 
 
